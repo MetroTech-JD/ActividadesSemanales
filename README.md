@@ -1,4 +1,8 @@
 # ActividadesSemanales
 Actividades semanales Metrotech.
 
-1era: Fizzbuzz
+Semana 1: FizzBuzz.
+Semana 2: [Conversor de Angulos a Radianes.
+          Contador de vocales}
+          
+          
